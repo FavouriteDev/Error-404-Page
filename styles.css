@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    color: #111118;
+    background-color: #fcefe7;
+    font-family: Switzer, sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+}
+.link-button{
+    background-color: #111118;
+    border-radius: 100vw;
+    padding: 1.25rem 2rem;
+    transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;
+}
+.button-default-text-style{
+    transform: translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;
+}
+.button-default-text-style-absolute{
+    transform: translate3d(0px, 100%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg); transform-style: preserve-3d;
+}
